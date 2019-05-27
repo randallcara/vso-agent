@@ -30,7 +30,7 @@
   "dependencies": {
     "adm-zip": "0.4.x",
     "archiver": "^0.21.0",
-    "async": "0.2.9",
+    "async": "3.0.1",
     "glob": "^6.0.0",
     "iniparser": "~1.0.5",
     "minimatch": "^3.0.0",
