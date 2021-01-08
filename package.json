@@ -35,7 +35,7 @@
     "iniparser": "~1.0.5",
     "minimatch": "^3.0.0",
     "minimist": "0.2.0",
-    "nconf": "0.6.x",
+    "nconf": "0.11.x",
     "node-uuid": "1.x",
     "q": "^1.0.1",
     "read": "^1.0.5",
